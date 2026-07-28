@@ -36,8 +36,7 @@
 - Deep Learning
 - Computer Vision
 - Natural Language Processing (NLP)
-- AI Application Development
-- Internet of Things (IoT)
+  
 
 ### 📚 Libraries & Frameworks
 
